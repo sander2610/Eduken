@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "426637580361",
+    "project_id": "eduken-project",
+    "storage_bucket": "eduken-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426637580361:android:bf3c682ae0613eba29c798",
+        "android_client_info": {
+          "package_name": "com.eduken.eduken_teacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNZ3265Wm_HLSaYkBeLyHgxpyRI3xWtg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426637580361:android:fba30678f00c8baa29c798",
+        "android_client_info": {
+          "package_name": "com.eduken.teacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNZ3265Wm_HLSaYkBeLyHgxpyRI3xWtg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
